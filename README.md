@@ -1,5 +1,5 @@
 # Importtant Links
-- Google docs https://docs.google.com/document/d/1DujFEa3buB3TRip-bLJGUBsiGxdfnBQa0RIjjKg5WN4/edit?tab=t.0
+- Google docs https://docs.google.com/document/d/166w_OkAbwznX-cVO2xGN2FDimZqHK9fka4U3VY-HrHk/edit?usp=sharing
 Sign in to add iamges.
 
 # Kali Linux Install Script
