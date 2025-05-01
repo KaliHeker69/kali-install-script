@@ -1,3 +1,7 @@
+# Importtant Links
+- Google docs https://docs.google.com/document/d/1DujFEa3buB3TRip-bLJGUBsiGxdfnBQa0RIjjKg5WN4/edit?tab=t.0
+Sign in to add iamges.
+
 # Kali Linux Install Script
 
 This project provides a shell script to automate the installation of specified software on a Kali Linux system. The script checks if the software is already installed and installs it if it is not present.
